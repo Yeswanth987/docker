@@ -1,6 +1,6 @@
 from flask import Flask, render_template_string
 
-PORT = 8000
+PORT = 80
 
 app = Flask(__name__)
 
